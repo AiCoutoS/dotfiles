@@ -1,1 +1,9 @@
+#apt
 sudo apt purge pidgin -y
+
+#pastas
+sudo rm -r ~/Documents
+sudo rm -r ~/Downloads
+sudo rm -r ~/Music
+sudo rm -r ~/Pictures
+sudo rm -r ~/Videos
