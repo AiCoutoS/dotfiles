@@ -1,4 +1,4 @@
-ntpupdate -q gps.ntp.br
+ntpdate -q gps.ntp.br
 sh remover
 sh repositórios
 sh instalar
