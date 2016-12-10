@@ -1,0 +1,17 @@
+#desabilita a auto-indentação (evita erros ao colar textos)
+unset autoindent
+
+#esconde a statusbar
+unset const
+
+#remove a barra de opções inferior
+set nohelp
+
+#mantém a linha inteira visível
+set softwrap
+
+#converte tabs para espaços (psr-2)
+set tabstospaces
+
+#tamanho da indentação (psr-2)
+set tabsize "4"
