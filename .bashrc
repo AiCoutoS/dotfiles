@@ -2,7 +2,7 @@
 alias com='git add -A && git commit -m "" && git push origin master'
 alias diario='cd ~ && date >> t/diario && echo "   $1" >> t/diario'
 alias dormir="cd ~ && date >> t/diario && echo '    fui dormir' >> t/diario && systemctl poweroff -i"
-alias lamp="sudo /etc/init.d/lampp"
+alias lamp="sudo /opt/lampp/lampp"
 alias levantei="cd ~ && date >> t/diario && echo '    levantei' >> t/diario"
 alias ll='ls -alF'
 alias you="youtube-dl"
