@@ -10,7 +10,9 @@ sudo apt install python-pip -y
 sudo apt install smplayer smplayer-themes smplayer-skins -y
 sudo apt install whois -y
 sudo apt install xchm -y
-sudo apt install yandex-disk -y
+
+#deb
+sudo dpkg -i ~/Downloads/yandex-disk_latest_amd64.deb && mkdir ~/yandex && yandex-disk setup
 
 #npm
 sudo npm install bower -g
