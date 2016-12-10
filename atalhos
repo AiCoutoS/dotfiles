@@ -1,0 +1,5 @@
+sudo ln -s ~/opt/home/Documents ~/Documents
+sudo ln -s ~/opt/home/Downloads ~/Downloads
+sudo ln -s ~/opt/home/Pictures ~/Pictures
+sudo ln -s ~/opt/home/Videos ~/Videos
+sudo ln -s ~/opt/home/yandex/www ~/www
