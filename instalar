@@ -19,3 +19,6 @@ sudo npm install bower -g
 
 #pip
 sudo pip install --upgrade youtube_dl
+
+#xampp
+cd /opt/home/Downloads/XAMPP/ && sh make
