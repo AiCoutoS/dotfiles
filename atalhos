@@ -1,3 +1,4 @@
+sudo ln -s ~/opt/home/Documents ~/Desktop
 sudo ln -s ~/opt/home/Documents ~/Documents
 sudo ln -s ~/opt/home/Downloads ~/Downloads
 sudo ln -s ~/opt/home/Pictures ~/Pictures
