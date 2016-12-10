@@ -1,0 +1,18 @@
+#apt
+sudo apt update
+sudo apt cryptkeeper -y
+sudo apt ffmpeg gstreamer0.10-ffmpeg -y
+sudo apt install git -y
+sudo apt install nodejs-legacy npm -y
+sudo apt pinta -y
+sudo apt python-pip -y
+sudo apt install smplayer smplayer-themes smplayer-skins -y
+sudo apt install whois -y
+sudo apt xchm -y
+sudo apt yandex-disk -y
+
+#npm
+sudo npm install bower -g
+
+#pip
+sudo pip install --upgrade youtube_dl
