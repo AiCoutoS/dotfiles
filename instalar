@@ -12,7 +12,7 @@ sudo apt install whois -y
 sudo apt install xchm -y
 
 #deb
-sudo dpkg -i ~/Downloads/yandex-disk_latest_amd64.deb && mkdir ~/yandex && yandex-disk setup
+sudo dpkg -i ~/Downloads/yandex-disk_latest_amd64.deb
 
 #npm
 sudo npm install bower -g
