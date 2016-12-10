@@ -1,5 +1,6 @@
 #apt
 sudo apt update
+sudo apt install alarm-clock-applet -y
 sudo apt cryptkeeper -y
 sudo apt ffmpeg gstreamer0.10-ffmpeg -y
 sudo apt install git -y
