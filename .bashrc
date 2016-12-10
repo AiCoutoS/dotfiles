@@ -1,12 +1,10 @@
 # aliases
-alias com='git add -A && git commit -m "update" && git push origin master'
-alias commit='com'
+alias com='git add -A && git commit -m "" && git push origin master'
 alias diario='cd ~ && date >> t/diario && echo "   $1" >> t/diario'
 alias dormir="cd ~ && date >> t/diario && echo '    fui dormir' >> t/diario && systemctl poweroff -i"
 alias lamp="sudo /etc/init.d/lampp"
 alias levantei="cd ~ && date >> t/diario && echo '    levantei' >> t/diario"
 alias ll='ls -alF'
-alias ls='ls --color=auto'
 alias you="youtube-dl"
 
 # cores do terminal
