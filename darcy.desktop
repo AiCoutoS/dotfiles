@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Darcy Ripper
-Comment=Web spider
+Comment=Fast, Efficient Website Downloader
 Exec=/bin/sh "/opt/darcy/make"
 Terminal=false
 Icon=/opt/darcy/icon.png
