@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Darcy Ripper
+Comment=Web spider
+Exec=setsid "java -jar /opt/darcy/DarcyRipper.jar"
+Terminal=false
+Icon=/opt/darcy/icon.png
+Categories=Internet;Web;Java;
