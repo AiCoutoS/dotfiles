@@ -2,7 +2,7 @@
 Type=Application
 Name=yEd Graph Editor
 Comment=High-quality diagrams
-Exec=setsid "java -jar /opt/yed/yed.jar"
+Exec=/bin/sh "/opt/yed/make"
 Terminal=false
 Icon=/opt/yed/.install4j/yEd.png
 Categories=Development;Java;

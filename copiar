@@ -1,4 +1,7 @@
 cp .* ~/
 cp *.desktop ~/.local/share/applications/
 cp bookmarks ~/.config/gtk-3.0/bookmarks
-sudo chmod +x ~/.local/share/applications/*.desktop
+sudo chmod +x ~/.local/share/applications/darcy.desktop
+sudo chmod +x ~/.local/share/applications/eclipse.desktop
+sudo chmod +x ~/.local/share/applications/yed.desktop
+

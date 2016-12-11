@@ -2,7 +2,7 @@
 Type=Application
 Name=Darcy Ripper
 Comment=Web spider
-Exec=setsid "java -jar /opt/darcy/DarcyRipper.jar"
+Exec=/bin/sh "/opt/darcy/make"
 Terminal=false
 Icon=/opt/darcy/icon.png
-Categories=Internet;Web;Java;
+Categories=Network;FileTransfer;
