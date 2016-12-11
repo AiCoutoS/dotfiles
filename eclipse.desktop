@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Eclipse Neon
+Comment=Eclipse Integrated Development Environment
+Icon=** something like /opt/eclipse/icon.xpm **
+Exec= ** something like /opt/eclipse/eclipse **
+Terminal=false
+Categories=Development;IDE;Java;
+StartupWMClass=Eclipse Neon
