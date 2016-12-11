@@ -1,2 +1,4 @@
 cp .* ~/
 cp bookmarks ~/.config/gtk-3.0/bookmarks
+cp eclipse.desktop chmod +x ~/.local/share/applications/eclipse.desktop
+sudo chmod +x ~/.local/share/applications/eclipse.desktop
