@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=yEd Graph Editor
-Commnet=High-quality diagrams
+Comment=High-quality diagrams
 Exec=setsid "java -jar /opt/yed/yed.jar"
 Terminal=false
 Icon=/opt/yed/.install4j/yEd.png
