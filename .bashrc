@@ -5,6 +5,7 @@ alias dormir="cd ~ && date >> t/diario && echo '    fui dormir' >> t/diario && s
 alias lamp="sudo /opt/lampp/lampp"
 alias levantei="cd ~ && date >> t/diario && echo '    levantei' >> t/diario"
 alias ll='ls -alF'
+alias n='nano'
 alias you="youtube-dl"
 
 # cores do terminal
