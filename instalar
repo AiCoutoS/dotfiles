@@ -17,6 +17,9 @@ sudo dpkg -i ~/Downloads/yandex-disk_latest_amd64.deb
 #npm
 sudo npm install bower -g
 
+#phpstorm
+sh /opt/home/Downloads/PhpStorm-2016.3.1/bin/phpstorm.sh
+
 #pip
 sudo pip install --upgrade youtube_dl
 
