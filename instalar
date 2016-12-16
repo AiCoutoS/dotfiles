@@ -4,7 +4,6 @@ sudo apt install alarm-clock-applet -y
 sudo apt install cryptkeeper -y
 sudo apt install ffmpeg gstreamer0.10-ffmpeg -y
 sudo apt install git -y
-sudo apt install gphpedit -y
 sudo apt install nodejs-legacy npm -y
 sudo apt install pinta -y
 sudo apt install python-pip -y
@@ -17,6 +16,9 @@ sudo dpkg -i ~/Downloads/yandex-disk_latest_amd64.deb
 
 #npm
 sudo npm install bower -g
+
+#phpstorm
+sh /opt/home/Downloads/PhpStorm-2016.3.1/bin/phpstorm.sh
 
 #pip
 sudo pip install --upgrade youtube_dl
