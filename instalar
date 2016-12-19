@@ -1,16 +1,18 @@
 #apt
 sudo apt update
-sudo apt install alarm-clock-applet -y
-sudo apt install cryptkeeper -y
-sudo apt install ffmpeg gstreamer0.10-ffmpeg -y
-sudo apt install git -y
-sudo apt install nodejs-legacy npm -y
-sudo apt install pinta -y
-sudo apt install python-pip -y
-sudo apt install smplayer smplayer-themes smplayer-skins -y
-sudo apt install stellarium -y
-sudo apt install whois -y
-sudo apt install xchm -y
+sudo apt install -y \
+alarm-clock-applet
+cryptkeeper \
+ffmpeg gstreamer0.10-ffmpeg \
+git \
+nodejs-legacy npm \
+node-less \
+pinta \
+python-pip \
+smplayer smplayer-themes smplayer-skins \
+stellarium \
+whois \
+xchm 
 
 #deb
 sudo dpkg -i ~/Downloads/yandex-disk_latest_amd64.deb
