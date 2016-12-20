@@ -5,6 +5,7 @@ alarm-clock-applet
 cryptkeeper \
 ffmpeg gstreamer0.10-ffmpeg \
 git \
+gnome-subtitles \
 nodejs-legacy npm \
 node-less \
 pinta \
