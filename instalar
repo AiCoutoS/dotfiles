@@ -4,11 +4,13 @@ sudo apt install -y \
 alarm-clock-applet
 cryptkeeper \
 ffmpeg gstreamer0.10-ffmpeg \
+frei0r-plugins \
 git \
 gnome-subtitles \
 kazam \
 nodejs-legacy npm \
 node-less \
+openshot \
 pinta \
 python-pip \
 simplescreenrecorder \
