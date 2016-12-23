@@ -6,6 +6,7 @@ cryptkeeper \
 ffmpeg gstreamer0.10-ffmpeg \
 git \
 gnome-subtitles \
+kazam \
 nodejs-legacy npm \
 node-less \
 pinta \
