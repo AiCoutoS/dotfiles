@@ -4,6 +4,7 @@ sudo apt install -y \
 alarm-clock-applet
 cryptkeeper \
 ffmpeg gstreamer0.10-ffmpeg \
+filezilla \
 frei0r-plugins \
 git \
 gnome-subtitles \
