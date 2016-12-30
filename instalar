@@ -5,6 +5,7 @@ alarm-clock-applet
 apcalc \
 cryptkeeper \
 ffmpeg gstreamer0.10-ffmpeg \
+figlet \
 filezilla \
 frei0r-plugins \
 git \
