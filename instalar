@@ -30,7 +30,10 @@ xchm
 sudo dpkg -i ~/Downloads/yandex-disk_latest_amd64.deb
 
 #npm
-sudo npm install bower -g
+sudo npm install \
+bower \
+todo \
+-g
 
 #pip
 sudo pip install --upgrade youtube_dl
