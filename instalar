@@ -25,7 +25,8 @@ smplayer smplayer-themes smplayer-skins \
 subtitleeditor \
 stellarium \
 whois \
-xchm 
+xchm \
+xserver-xorg-input-synaptics
 
 #deb
 sudo dpkg -i ~/Downloads/yandex-disk_latest_amd64.deb
