@@ -29,7 +29,8 @@ stellarium \
 terminator \
 whois \
 xchm \
-yui-compressor
+yui-compressor \
+zsnes
 
 #deb
 sudo dpkg -i ~/Downloads/yandex-disk_latest_amd64.deb
