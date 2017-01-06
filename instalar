@@ -9,6 +9,7 @@ ffmpeg gstreamer0.10-ffmpeg \
 figlet \
 filezilla \
 frei0r-plugins \
+ghex \
 git \
 gnome-subtitles \
 kazam \
