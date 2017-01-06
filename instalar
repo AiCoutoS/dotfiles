@@ -4,6 +4,7 @@ sudo apt install -y \
 alarm-clock-applet
 apcalc \
 cryptkeeper \
+csstidy \
 ffmpeg gstreamer0.10-ffmpeg \
 figlet \
 filezilla \
